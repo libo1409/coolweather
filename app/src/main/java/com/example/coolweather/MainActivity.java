@@ -6,6 +6,8 @@ import android.preference.PreferenceManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
+//远程同步到本地实验
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
